@@ -1,6 +1,6 @@
 # Nevada-Public-Salaries
 
-### Data on names, job titles and salary for Nevada public employees, by agency.**
+### Data on names, job titles and salary for Nevada public employees, by agency.
 
 **About this dataset**
 
