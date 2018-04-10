@@ -4,11 +4,11 @@
 
 **About this dataset**
 
-The original data is provided by [NPRI](www.transparentnevada.com) as a public service. I've downloaded the raw csv files for the 105 Nevada government agencies that reported salary information for FY 2016 and they can be found in the `data/input` folder. The R script to combine the inputs into a single file is further below. The result is the output file `all-nevada-2016.csv`. Note: there's also a version with a column added for employee gender available [here](https://github.com/mguideng/Gender-Pkg-NV-Salary). 
+The original data is provided by [NPRI](www.transparentnevada.com) as a public service. I've downloaded the raw csv files for the 105 Nevada government agencies that reported salary information for FY 2016 and they can be found in the `data/input` folder. It will have to be unzipped first. The R script to combine the inputs into a single file is further below. The result is the output file `all-nevada-2016.csv`. Note: there's also a version with a column added for employee gender available [here](https://github.com/mguideng/Gender-Pkg-NV-Salary). 
 
 **R script to combine**
 
-Store the input files in a dedicated folder called `allfiles` within your working directory's filepath.
+Store the 105 input files in a dedicated folder called `allfiles` within your working directory's filepath.
 
 ```{r}
 # Merge all agency files
