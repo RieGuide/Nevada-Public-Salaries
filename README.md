@@ -16,7 +16,7 @@ ls("package:gender")
 help(package = "gender")
 ```
 
-After referencing the package's documentation and vignettes, I see that the basic function is `gender()`. One of its cool features is that it accounts for the fact that genders associated with names can change over time. Also, loading this package prompts you to install the 'genderdata' package, which contains several datasets that permits the user to make predictions based on different time periods and  geographical regions. As such, `gender()` allows you to choose a method to pass in a set of names along with place and a birth year (or range of birth years).
+After referencing the package's documentation and vignettes, I see that the basic function is `gender()`. One of its cool features is that it accounts for the fact that genders associated with names can change over time. Also, loading this package prompts you to install the `genderdata` package, which contains several datasets that permits the user to make predictions based on different time periods and  geographical regions. As such, `gender()` allows you to choose a method to pass in a set of names along with place and a birth year (or range of birth years).
 
 Taken directly from the documentation, the basic usage is:
 
