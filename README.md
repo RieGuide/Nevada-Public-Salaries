@@ -10,7 +10,7 @@ The input and output files are located in the `data` folder. In its original for
 
 ## Exploring what's in the gender package
 ```
-install.packages(gender)
+install.packages("gender")
 library(gender)
 ls("package:gender")
 help(package = "gender")
