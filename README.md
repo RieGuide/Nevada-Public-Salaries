@@ -38,13 +38,5 @@ write.csv(salary, "all-nevada-2016.csv")
 | all-Nevada-2016.csv | 146,662     | 13            | Employee.Name, Job.Title, Base.Pay, Overtime.Pay, Other.Pay, Benefits, Total.Pay, Total.PayBenefits, Year, Notes, Agency, Status |
 
 **Exploration ideas**
-  * Which agencies are the largest and gets paid the most?
-  * How many women work in government versus men and for which jobs?
-  * How is pay different between men and women by job titles?
+  * Which agencies are the largest and which agencies get paid the most?
   * What are the employee compensation costs per resident by cities and county in Southern Nevada?
-
-
-
-
-
-
