@@ -17,6 +17,7 @@ The original data is provided by [NPRI](www.transparentnevada.com) as a public s
   * What are the employee compensation costs per resident by cities and county in Southern Nevada?
 
 **To merge select agency files in R**
+
 If you want to merge select agencies but not all:
 
 ```
